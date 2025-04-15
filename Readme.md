@@ -1,6 +1,6 @@
 # Debian
 
-# 🧠 **Surgimento do Debian**
+# 🧠 **Surgimento do Debian** `Byanca` (2 slides, 1º e 2º)
 
 O Debian nasceu da frustração com o estado caótico das distribuições Linux no início dos anos 90. Ian Murdock, estudante da Purdue University, observava que:
 
@@ -16,7 +16,7 @@ O Debian foi, assim, o **primeiro grande projeto de distribuição Linux realmen
 
 ---
 
-# 🧭 **Filosofia do Debian: Liberdade, Transparência, Comunidade**
+# 🧭 **Filosofia do Debian: Liberdade, Transparência, Comunidade** `Byanca` (1 slide, 3º)
 
 Debian não é apenas um sistema operacional. Ele é uma **filosofia de desenvolvimento**:
 
@@ -44,7 +44,7 @@ Serve como base para definir se um software pode ou não entrar no repositório 
 - Mecanismos como **“sponsorship”, “mentorship” e “bug squashing parties”** são comuns.
 - Infraestrutura mantida por fundações como **Software in the Public Interest**.
 
-# 🎬 O**s nomes das versões**
+# 🎬 O**s nomes das versões** `Marcos` (1 slide, 4º) 
 
 A decisão de nomear as versões do Debian com nomes de personagens da franquia **Toy Story**, da Pixar, é uma daquelas histórias que mostram como o software livre também tem alma, memória e até uma certa dose de humor.
 
@@ -86,12 +86,12 @@ Em projetos de software livres, especialmente os mais sérios e grandes como o D
 
 Inclusive, até mesmo a versão instável do sistema segue essa tradição com bom humor:
 
-> A versão Sid, também chamada de Unstable, representa o estágio mais dinâmico do Debian, onde os pacotes recém-introduzidos são constantemente testados antes de avançarem para as versões Testing e Stable — seu nome é uma referência ao garoto que quebra brinquedos em Toy Story, simbolizando o caráter experimental e instável desse ramo.
+> A versão Sid, a Unstable, representa o estágio mais dinâmico do Debian, onde os pacotes recém-introduzidos são constantemente testados antes de avançarem para as versões Testing e Stable — seu nome é uma referência ao garoto que quebra brinquedos em Toy Story, simbolizando o caráter experimental e instável desse ramo.
 > 
 
 ---
 
-# **Classificação do Debian**
+# **Classificação do Debian** `Byanca`
 
 ## 🖥️ **Desktop**
 
@@ -151,7 +151,7 @@ Inclusive, até mesmo a versão instável do sistema segue essa tradição com b
 
 ---
 
-# 📦 P**acote `.deb`**
+# 📦 P**acote `.deb`** `Marcos` (5 slides, 10º ao 14º)
 
 Um **.deb** (abreviação de **Debian Archive**) é um **formato de empacotamento de software** utilizado pelas distribuições baseadas no **Debian**, como Ubuntu, Linux Mint, Kali Linux, Pop!_OS, entre muitas outras.
 
@@ -272,7 +272,7 @@ Muitos projetos ainda empacotam primeiro para `.deb` antes de ir para outros for
 
 ---
 
-# Gerenciador de Pacotes **`dpkg`**
+# Gerenciador de Pacotes **`dpkg`** `Byanca` (2 slides, 15º e 16º)
 
 O `dpkg` (**Debian Package**) é a ferramenta de gerenciamento de pacotes de mais baixo nível do Debian. Ele foi criado para instalar, configurar, remover e inspecionar pacotes `.deb`, localmente, sem depender de repositórios ou da internet.
 
@@ -362,7 +362,7 @@ Esses pontos tornaram o Debian **pioneiro na padronização da instalação de s
 
 ---
 
-# 🔧 Repositório APT
+# 🔧 Repositório APT `Marcos` (4 slides, 17º ao 21º)
 
 O **APT (Advanced Package Tool)** é um conjunto de ferramentas criado pelos desenvolvedores do Debian para **gerenciar pacotes de software `.deb`**, resolvendo automaticamente todas as **dependências**, instalando, removendo, atualizando e mantendo o sistema de forma segura e eficiente.
 
